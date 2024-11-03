@@ -33,7 +33,7 @@
 :is(.theme_dark :not(.theme_light)) .rec::before {
   content: "";
   background-color: #ff0070;
-  box-shadow: 0 0 4px 3px #ff0070;
+  box-shadow: 0 0 4px 2px #ff0070;
   width: 9px;
   height: 9px;
   border-radius: 50%;
@@ -84,7 +84,7 @@
   .page:not(.theme_light) .rec::before {
     content: "";
     background-color: #ff0070;
-    box-shadow: 0 0 4px 3px #ff0070;
+    box-shadow: 0 0 4px 2px #ff0070;
     width: 9px;
     height: 9px;
     border-radius: 50%;

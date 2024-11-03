@@ -140,9 +140,7 @@
   gap: 50px;
 }
 
-.why,
-.what,
-.how {
+.content-section {
   display: grid;
   gap: 20px;
 }
