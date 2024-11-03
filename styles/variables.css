@@ -1,4 +1,18 @@
 /*
   Переменные для вашего проекта
   и их переопределение под различные устройства
+
+
 */
+:root {
+  --bg-color: #fff1f7;
+  --bg-image: url(../images/cover-image-light.png);
+  --accent-color: #ff8dcb;
+  --heading-color: #ffc2e6;
+  --title-color: #353430;
+  --accent-title-color: #353430;
+  --text-color: #353430;
+  --accent-text-color: #353430;
+  --main-font: "IBM Plex mono", sans-serif;
+  --text-color-opacity: #32312d66;
+}
